@@ -9,5 +9,8 @@ public class Test {
 		// TODO Auto-generated method stub
 
 	}
+public void methodx(){
+
+}
 
 }
